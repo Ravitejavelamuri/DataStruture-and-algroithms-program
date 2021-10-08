@@ -6,6 +6,7 @@ dont forget to put your name in  this contribution.md file
 happy hactoberfest 2021
 <h2>List of contributors</h2>
 <p>Pls dont forget to upadate your name email and github userid</p>
+<p>ANUSHRAV GARG   | <a href="https://github.com/ANUSHRAVGARG"></a>anushravgarg027  | <a href="anushravgarg3218@gmail.com">mail id</a> |</p>1
 <p>Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="shubhambawankar735@gmail.com">mail id</a> |</p>
 <p>Sidharth Bankupalle | <a href="https://github.com/SidBthegr8">SidBthegr8</a>  | <a href="bankupallesidharth@gmail.com">mail id</a> |</p>
 <p>Arne Stittrich | <a href="https://github.com/Stitti">Stitti</a>  | <a href="arnestittrich@gmail.com">mail id</a> |</p>
@@ -32,6 +33,7 @@ happy hactoberfest 2021
 <p>Meetkumar Patel | <a href="https://github.com/Meet2020mp">Meet2020mp</a> | <a href="meet2020mp@gmail.com">mail id</a> |</p>
 
 <p>Payal Pote | <a href="https://github.com/blaze116">blaze116</a> | <a href="payapote2002@gmail.com">mail id</a> |</p>
+
 
 
 <p>Abhivansh Bhatnagar | <a href="https://github.com/AbhivanshBhatnagar">Abhivansh Bhatnagar</a>  | <a href="bhatnagar1102abhivansh@gmail.com">mail id</a> |</p>
