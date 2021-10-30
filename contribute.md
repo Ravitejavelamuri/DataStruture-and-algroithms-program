@@ -7,6 +7,7 @@ happy hactoberfest 2021
 <h2>List of contributors</h2>
 <p>Pls dont forget to upadate your name email and github userid</p>
 <p>Shubham Bawankar | <a href="https://github.com/Shubham56-droid">Shubham56droid</a>  | <a href="shubhambawankar735@gmail.com">mail id</a> |</p>
+<p>anushrav garg | <a href="https://github.com/ANUSHRAVGARG">anushravgarg</a>  | <a href="anushravgarg@gmail.com">mail id</a> |</p>
 <p>Sidharth Bankupalle | <a href="https://github.com/SidBthegr8">SidBthegr8</a>  | <a href="bankupallesidharth@gmail.com">mail id</a> |</p>
 <p>Arne Stittrich | <a href="https://github.com/Stitti">Stitti</a>  | <a href="arnestittrich@gmail.com">mail id</a> |</p>
 <p>Mohammad Kaif Siddique| <a href="https://github.com/MoKaif">MoKaif</a>  | <a href="kaif44jr@gmail.com">mail id</a> |</p>
